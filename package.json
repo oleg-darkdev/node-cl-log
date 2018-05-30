@@ -1,0 +1,16 @@
+{
+  "name": "node-cl-log",
+  "version": "0.0.1",
+  "description": "The main task of color is to serve expressiveness.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+  	"colorfuls",
+  	"console",
+  	"expressiveness"
+  ],
+  "author": "Oleg_templ <linner_952@mail.ru> (http://www.bear-software.by)",
+  "license": "CC BY-NC-SA 4.0"
+}
