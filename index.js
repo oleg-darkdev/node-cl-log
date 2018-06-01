@@ -87,7 +87,7 @@ class colorLog {
 
 const cl = new colorLog();
 
-export default cl;
+module.exports = cl;
 
 
 
