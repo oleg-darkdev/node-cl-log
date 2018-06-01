@@ -1,6 +1,6 @@
 {
   "name": "node-cl-log",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "The main task of color is to serve expressiveness.",
   "main": "index.js",
   "scripts": {
