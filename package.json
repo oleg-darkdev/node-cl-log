@@ -1,16 +1,19 @@
 {
   "name": "node-cl-log",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The main task of color is to serve expressiveness.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine test/jasmine/spec.js"
   },
   "keywords": [
-  	"colorfuls",
-  	"console",
-  	"expressiveness"
+    "colorfuls",
+    "console",
+    "expressiveness"
   ],
   "author": "Oleg_templ <linner_952@mail.ru> (http://www.bear-software.by)",
-  "license": "CC BY-NC-SA 4.0"
+  "license": "CC BY-NC-SA 4.0",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
 }

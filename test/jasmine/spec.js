@@ -1,3 +1,5 @@
+const cl = require('../../index');
+
 describe("Next color != previuos", function () {
   it("Color black", function () {
   	cl.bla(' black color');
@@ -38,18 +40,18 @@ describe("Next color != previuos", function () {
   	cl.whi(' White color');
   	console.log(' basic method');
   });
-  it("Log mehtod ", function () {
-  	cl.log(' white color');
-  	console.log(' basic method');
-  });
-  it("Console.dir() ", function () {
-  	cl.dir();
-  	cl.log(' white color');
-  	console.log(' basic method console.log(dir)');
-  });
-  it("Methods ", function () {
+  // it("Log mehtod ", function () {
+  // 	cl.log(' white color');
+  // 	console.log(' basic method');
+  // });
+  // it("Console.dir() ", function () {
+  // 	cl.dir();
+  // 	cl.log(' white color');
+  // 	console.log(' basic method console.log(dir)');
+  // });
+  // it("Methods ", function () {
 
-  });
+  // });
 });
 
 
